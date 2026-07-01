@@ -1,0 +1,960 @@
+canonical_identifier: bkk:krp/KR6q0359/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0359/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 真歇清了禪師語錄
+  identifiers:
+    krp: KR6q0359
+    cbeta: X71n1426
+    cbeta_old_id: X71n1426
+    authorityid: CA0004049
+    json_key: X1426
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X71/X71n1426.xml
+    old_id: X71n1426
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0359_000-X.yaml, hash: 'sha256:d0d67f2ec632f828ecaf0877d1cfe223d92ba010f3dc906f0916205d6b85c3c4'}
+  - {seq: 1, filename: KR6q0359_001-X.yaml, hash: 'sha256:7c56c032fc237a871d5a80c219968be17d6f1c4f2ea40fbbb7b00f32a8c20c3f'}
+  - {seq: 2, filename: KR6q0359_002-X.yaml, hash: 'sha256:3dcd3211e0f4008e0a8af89e1938e413fb1c8331e88950494d2b413c856cfbbd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0359_000-X.markers.yaml, hash: 'sha256:c8e873b57b64f1593c882de37a7fd748bf2bfd8f498a2c5d81f46906f493132a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0359_001-X.markers.yaml, hash: 'sha256:b7ba12bdaa3c7bc6a297306d8abc336eee1abadd2d8f17cb50e111db416675a4'}
+  - {seq: 2, role: markers, filename: assets/KR6q0359_002-X.markers.yaml, hash: 'sha256:34d39df614ae2961ad6c5e6d66bdd824bfceecdba05f4f4e126e48e54f7a0dc5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0359_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1426-A 較正重刻劫外錄引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0359_X_000-mulu-2
+    span:
+    - front
+    - 330
+    - 330
+  label: No. 1426-B 真州長蘆了禪師劫外錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11576
+  label: 真州長蘆了和尚劫外錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-2
+    span:
+    - body
+    - 4268
+    - 4268
+  label: 法要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-3
+    span:
+    - body
+    - 6211
+    - 6211
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-4
+    span:
+    - body
+    - 7858
+    - 7858
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-5
+    span:
+    - body
+    - 8261
+    - 8261
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-6
+    span:
+    - body
+    - 8566
+    - 8566
+  label: No. 1426-C 崇先真歇了禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-7
+    span:
+    - body
+    - 10375
+    - 10375
+  label: No. 1426-D 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-8
+    span:
+    - body
+    - 10377
+    - 10377
+  label: 華藏無盡燈記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-9
+    span:
+    - body
+    - 10875
+    - 10875
+  label: 戒殺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-10
+    span:
+    - body
+    - 11087
+    - 11087
+  label: 淨土宗要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-11
+    span:
+    - body
+    - 11250
+    - 11250
+  label: 自贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-12
+    span:
+    - body
+    - 11300
+    - 11300
+  label: 真歇了禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-13
+    span:
+    - body
+    - 11504
+    - 11504
+  label: 船子夾山話
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0359_X_001-mulu-14
+    span:
+    - body
+    - 11542
+    - 11542
+  label: 惠超問佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 10361
+  label: 真歇和尚拈古
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-2
+    span:
+    - body
+    - 67
+    - 67
+  label: 舉信心銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-3
+    span:
+    - body
+    - 274
+    - 274
+  label: 至道無難　　唯嫌揀擇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-4
+    span:
+    - body
+    - 495
+    - 495
+  label: 但莫憎愛　　洞然明白
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-5
+    span:
+    - body
+    - 625
+    - 625
+  label: 毫𨤲有差　　天地懸隔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-6
+    span:
+    - body
+    - 768
+    - 768
+  label: 欲得現前　　莫存順逆
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-7
+    span:
+    - body
+    - 928
+    - 928
+  label: 違順相爭　　是為心病
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-8
+    span:
+    - body
+    - 1079
+    - 1079
+  label: 不識玄旨　　徒勞念靜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-9
+    span:
+    - body
+    - 1293
+    - 1293
+  label: 圓同大虗　　無欠無餘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-10
+    span:
+    - body
+    - 1386
+    - 1386
+  label: 良由取捨　　所以不如
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-11
+    span:
+    - body
+    - 1624
+    - 1624
+  label: 莫逐有緣　　勿住空忍
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-12
+    span:
+    - body
+    - 1893
+    - 1893
+  label: 一種平懷　　泯然自盡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-13
+    span:
+    - body
+    - 2018
+    - 2018
+  label: 止動歸止　　止更彌動
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-14
+    span:
+    - body
+    - 2236
+    - 2236
+  label: 唯滯兩邊　　寧知一種
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-15
+    span:
+    - body
+    - 2312
+    - 2312
+  label: 一種不通　　兩處失功
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-16
+    span:
+    - body
+    - 2441
+    - 2441
+  label: 遣有沒有　　從空背空
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-17
+    span:
+    - body
+    - 2664
+    - 2664
+  label: 多言多慮　　轉不相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-18
+    span:
+    - body
+    - 2826
+    - 2826
+  label: 絕言絕慮　　無處不通
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-19
+    span:
+    - body
+    - 2916
+    - 2916
+  label: 歸根得旨　　隨照失宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-20
+    span:
+    - body
+    - 3058
+    - 3058
+  label: 須臾返照　　勝却前空
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-21
+    span:
+    - body
+    - 3217
+    - 3217
+  label: 前空轉變　　皆由妄見
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-22
+    span:
+    - body
+    - 3327
+    - 3327
+  label: 不用求真　　唯須息見
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-23
+    span:
+    - body
+    - 3467
+    - 3467
+  label: 二見不住　　慎勿追尋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-24
+    span:
+    - body
+    - 3564
+    - 3564
+  label: 纔有是非　　紛然失心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-25
+    span:
+    - body
+    - 3663
+    - 3663
+  label: 二由一有　　一亦莫守
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-26
+    span:
+    - body
+    - 3853
+    - 3853
+  label: 一心不生　　萬法無咎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-27
+    span:
+    - body
+    - 3940
+    - 3940
+  label: 無咎無法　　不生不心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-28
+    span:
+    - body
+    - 3995
+    - 3995
+  label: 能隨境滅　　境逐能沈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-29
+    span:
+    - body
+    - 4074
+    - 4074
+  label: 境由能境　　能由境能
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-30
+    span:
+    - body
+    - 4163
+    - 4163
+  label: 欲知兩段　　元是一空
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-31
+    span:
+    - body
+    - 4235
+    - 4235
+  label: 一空同兩　　齊含萬象
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-32
+    span:
+    - body
+    - 4330
+    - 4330
+  label: 不見精粗　　寧有偏黨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-33
+    span:
+    - body
+    - 4465
+    - 4465
+  label: 大道躰寬　　無易無難
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-34
+    span:
+    - body
+    - 4634
+    - 4634
+  label: 小見狐疑　　轉急轉遲
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-35
+    span:
+    - body
+    - 4779
+    - 4779
+  label: 執之失度　　必入邪路
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-36
+    span:
+    - body
+    - 4892
+    - 4892
+  label: 放之自然　　體無去住
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-37
+    span:
+    - body
+    - 4983
+    - 4983
+  label: 任性合道　　逍遙絕惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-38
+    span:
+    - body
+    - 5112
+    - 5112
+  label: 繫念乖真　　昏沈不好
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-39
+    span:
+    - body
+    - 5198
+    - 5198
+  label: 不好勞神　　何用疎親
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-40
+    span:
+    - body
+    - 5320
+    - 5320
+  label: 欲趣一乘　　勿惡六塵
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-41
+    span:
+    - body
+    - 5512
+    - 5512
+  label: 六塵不惡　　還同正覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-42
+    span:
+    - body
+    - 5641
+    - 5641
+  label: 智者無為　　愚人自縛
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-43
+    span:
+    - body
+    - 5841
+    - 5841
+  label: 法無異法　　妄自愛著
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-44
+    span:
+    - body
+    - 5951
+    - 5951
+  label: 將心用心　　豈非大錯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-45
+    span:
+    - body
+    - 6050
+    - 6050
+  label: 迷生寂亂　　悟無好惡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-46
+    span:
+    - body
+    - 6190
+    - 6190
+  label: 一切二邊　　妄自斟酌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-47
+    span:
+    - body
+    - 6305
+    - 6305
+  label: 夢幻空華　　何勞把捉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-48
+    span:
+    - body
+    - 6417
+    - 6417
+  label: 得失是非　　一時放却
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-49
+    span:
+    - body
+    - 6589
+    - 6589
+  label: 眼若不睡　　諸夢自除
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-50
+    span:
+    - body
+    - 6796
+    - 6796
+  label: 心若不異　　萬法一如
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-51
+    span:
+    - body
+    - 6928
+    - 6928
+  label: 一如體玄　　兀爾忘緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-52
+    span:
+    - body
+    - 7009
+    - 7009
+  label: 萬法齊觀　　歸復自然
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-53
+    span:
+    - body
+    - 7098
+    - 7098
+  label: 泯其所以　　不可方比
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-54
+    span:
+    - body
+    - 7192
+    - 7192
+  label: 止動無動　　動止無止
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-55
+    span:
+    - body
+    - 7364
+    - 7364
+  label: 兩既不成　　一何有尔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-56
+    span:
+    - body
+    - 7521
+    - 7521
+  label: 究竟窮極　　莫存軌則
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-57
+    span:
+    - body
+    - 7632
+    - 7632
+  label: 契心平等　　所作俱息
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-58
+    span:
+    - body
+    - 7752
+    - 7752
+  label: 狐疑淨盡　　正信調直
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-59
+    span:
+    - body
+    - 7932
+    - 7932
+  label: 一切不留　　無可記憶
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-60
+    span:
+    - body
+    - 8020
+    - 8020
+  label: 虗明自照　　不勞心力
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-61
+    span:
+    - body
+    - 8119
+    - 8119
+  label: 非思量處　　識情難測
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-62
+    span:
+    - body
+    - 8305
+    - 8305
+  label: 真如法界　　無自無它
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-63
+    span:
+    - body
+    - 8515
+    - 8515
+  label: 要急相應　　唯言不二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-64
+    span:
+    - body
+    - 8637
+    - 8637
+  label: 不二皆同　　無不包容
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-65
+    span:
+    - body
+    - 8739
+    - 8739
+  label: 十方智者　　皆入此宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-66
+    span:
+    - body
+    - 8835
+    - 8835
+  label: 宗非促延　　一念萬年
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-67
+    span:
+    - body
+    - 8936
+    - 8936
+  label: 無在不在　　十方目前
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-68
+    span:
+    - body
+    - 9137
+    - 9137
+  label: 極小同大　　妄絕境界
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-69
+    span:
+    - body
+    - 9276
+    - 9276
+  label: 極大同小　　不見邊表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-70
+    span:
+    - body
+    - 9421
+    - 9421
+  label: 有即是無　　無即是有
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-71
+    span:
+    - body
+    - 9632
+    - 9632
+  label: 若不如是　　必不須守
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-72
+    span:
+    - body
+    - 9751
+    - 9751
+  label: 一即一切　　一切即一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-73
+    span:
+    - body
+    - 9854
+    - 9854
+  label: 但能如是　　何慮不畢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-74
+    span:
+    - body
+    - 9959
+    - 9959
+  label: 信心不二　　不二信心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0359_X_002-mulu-75
+    span:
+    - body
+    - 10060
+    - 10060
+  label: 言語道斷　　非去來今
+  type: mulu
+  level: 1
+hash: sha256:787ff123d265a846cc8712425b0177f098324384fd25348596d7fce515bc30f7
