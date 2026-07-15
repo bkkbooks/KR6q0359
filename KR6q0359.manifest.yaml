@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0359/v1
 canonical_location: https://kanripo.org/bkk/KR6q0359/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 真歇清了禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0359_000.yaml, hash: 'sha256:d0d67f2ec632f828ecaf0877d1cfe223d92ba010f3dc906f0916205d6b85c3c4'}
-  - {seq: 1, filename: KR6q0359_001.yaml, hash: 'sha256:7c56c032fc237a871d5a80c219968be17d6f1c4f2ea40fbbb7b00f32a8c20c3f'}
-  - {seq: 2, filename: KR6q0359_002.yaml, hash: 'sha256:3dcd3211e0f4008e0a8af89e1938e413fb1c8331e88950494d2b413c856cfbbd'}
+  - {seq: 0, filename: KR6q0359_000.yaml, hash: 'sha256:01340d4a31cb567b83b53b1054ec4e9b5c0c3e48c7f035c53ee5f5217073af95'}
+  - {seq: 1, filename: KR6q0359_001.yaml, hash: 'sha256:d26701be5926993d60d25fc3f503460ba1bbcadac61ff3e5b7eaeb398726e755'}
+  - {seq: 2, filename: KR6q0359_002.yaml, hash: 'sha256:e99e027629e74fb801f4f2b93bc717ac739ad982d5c8ae94b1cf17500c5cd459'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0359_000.markers.yaml, hash: 'sha256:f945f13cdf5f8c2204f3cfca25aeeac6ed9270d2e727edce4fb512af45707c03'}
-  - {seq: 1, role: markers, filename: assets/KR6q0359_001.markers.yaml, hash: 'sha256:3bfd2892eab71ce080f7c5582cfc705909f68b7e08c0074cfc5518cfc895bade'}
-  - {seq: 2, role: markers, filename: assets/KR6q0359_002.markers.yaml, hash: 'sha256:25abb50de9d7df22e0563791681254643a8766ef0b709d008eb49d99becec5db'}
+  - {seq: 0, role: markers, filename: assets/KR6q0359_000.markers.yaml, hash: 'sha256:aa7e635da7494ac82e410054e7052d9cacb7d235912c8acf538d96df968ecad4'}
+  - {seq: 1, role: markers, filename: assets/KR6q0359_001.markers.yaml, hash: 'sha256:a6f9505fa4a37b4039e48d2d5a9e9ac29bae6da31d3ac819ae09aa2acae7d877'}
+  - {seq: 2, role: markers, filename: assets/KR6q0359_002.markers.yaml, hash: 'sha256:57829585e39f4d2528e25aaf0c39da69de5e104d8862f6a67d5b48d96045fda2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -959,4 +959,7 @@ table_of_contents:
   label: 言語道斷　　非去來今
   type: mulu
   level: 1
-hash: sha256:58671cc31c16a327fcd464bafdc214c2c33cbeba95acbb4d6417a97bc4e08057
+hash: sha256:e848df90c2267ce3da6e196f11a2d9b7c556c4fdc925641f32fc7deb5cd6aebd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
