@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0359_000-X.yaml, hash: 'sha256:d0d67f2ec632f828ecaf0877d1cfe223d92ba010f3dc906f0916205d6b85c3c4'}
+  - {seq: 0, filename: KR6q0359_000-X.yaml, hash: 'sha256:1e32995c5a5fa5a1b7619363dd6fa452b397720591810e3fd89535953d76ddfd'}
   - {seq: 1, filename: KR6q0359_001-X.yaml, hash: 'sha256:7c56c032fc237a871d5a80c219968be17d6f1c4f2ea40fbbb7b00f32a8c20c3f'}
   - {seq: 2, filename: KR6q0359_002-X.yaml, hash: 'sha256:3dcd3211e0f4008e0a8af89e1938e413fb1c8331e88950494d2b413c856cfbbd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0359_000-X.markers.yaml, hash: 'sha256:c8e873b57b64f1593c882de37a7fd748bf2bfd8f498a2c5d81f46906f493132a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0359_000-X.markers.yaml, hash: 'sha256:81be93a11685e34654ed37ffb876c03168e236139979c8dbc2f5a4254a011ef8'}
   - {seq: 1, role: markers, filename: assets/KR6q0359_001-X.markers.yaml, hash: 'sha256:b7ba12bdaa3c7bc6a297306d8abc336eee1abadd2d8f17cb50e111db416675a4'}
   - {seq: 2, role: markers, filename: assets/KR6q0359_002-X.markers.yaml, hash: 'sha256:34d39df614ae2961ad6c5e6d66bdd824bfceecdba05f4f4e126e48e54f7a0dc5'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0359_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1426-A 較正重刻劫外錄引
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0359_X_000-mulu-2
     span:
-    - front
+    - body
     - 330
     - 330
   label: No. 1426-B 真州長蘆了禪師劫外錄序
@@ -957,4 +957,4 @@ table_of_contents:
   label: 言語道斷　　非去來今
   type: mulu
   level: 1
-hash: sha256:787ff123d265a846cc8712425b0177f098324384fd25348596d7fce515bc30f7
+hash: sha256:54a6e3f46fea43dd96d1a222ae34ee0d39ad22c9067d6a9487c4ff27e33b1ce9
